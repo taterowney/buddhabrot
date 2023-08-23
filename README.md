@@ -1,0 +1,4 @@
+# buddhabrot
+A fractal based on the Mandelbrot set (it is a heatmap of the areas where points <i>outside</i> the Mandelbrot set land when iterated through the Mandelbrot function. 
+
+I made this for Philosophy class of all things lol (specifically Existentialism). It is supposed to challenge our supposedly objective view of how we see the universe: when people look at the picture they see a sitting Buddha, or an orchid or fountain when its upside down... but the only thing we don't immidiately identify it is a mathematical equation. Even if one conceptually knows how it was generated, you can't "un-see" the diety it depicts. Additionally, Nietzsche depicts art and science as near polar opposites (i.e. with art providing meaning but science being one of the dead ends humankind pursues in the absence of religion). I wanted to call this in to question by highlighting the ambiguity of the boundary between what is considered art and what is science.
